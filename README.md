@@ -18,8 +18,8 @@
   
 ### 📌 我的小破站
 
-- [小张同学の首页](https://www.zhangshichang.com/) &emsp; ——  www.zhangshichang.com
+- [小张同学の首页](https://www.zhangshichang.com/) &emsp;——www.zhangshichang.com
 
-- [小张同学の博客](https://blog.zhangshichang.com/) &emsp; ——  blog.zhangshichang.com
+- [小张同学の博客](https://blog.zhangshichang.com/) &emsp;——blog.zhangshichang.com
 
 </td></tr>
