@@ -30,15 +30,11 @@
 
 <table>
   
-<tr style="margin: 0 auto;"><td>
-  
 <img align="right" height="90" src="https://blog.zhangshichang.com/upload/avatar.png" />
 <p>&emsp;&emsp;大家好，我是小张同学。</p>
 <p>&emsp;&emsp;一位热衷于前端开发的工程师。</p>
 <p>&emsp;&emsp;励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，小张同学正在努力。</p>
-
-</td></tr>
 
 <tr><td>
   
