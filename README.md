@@ -31,7 +31,7 @@
 <table>
 
 <tr><td>
-<img align="right" width="90" height="110" src="https://blog.zhangshichang.com/upload/avatar.png" />
+<img align="right" width="90" height="90" src="https://blog.zhangshichang.com/upload/avatar.png" />
 <p>大家好，我是小张同学。</p>
 <p>一位热衷于前端开发的工程师。</p>
 <p>励志成为一名优秀的开发者。</p>
