@@ -29,14 +29,13 @@
 #  🙋 Hello
 
 <table>
-  
+
+<tr><td>
 <img align="right" width="50" src="https://blog.zhangshichang.com/upload/avatar.png" />
 <p>大家好，我是小张同学。</p>
 <p>一位热衷于前端开发的工程师。</p>
 <p>励志成为一名优秀的开发者。</p>
 <p>我们正在让这个世界变得更加美好，小张同学正在努力。</p>
-
-<tr><td>
   
 ### 📌 我的小破站
 
