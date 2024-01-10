@@ -37,7 +37,7 @@
 
 <p>&emsp;&emsp;大家好，我是小张同学。</p>
 <p>&emsp;&emsp;一位热衷于前端开发的工程师。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;热爱计算机IT事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，小张同学正在努力。</p>
 
 </td></tr>
@@ -46,8 +46,8 @@
   
 ### 📌 我的小破站
 
-- [小张同学の首页](https://www.zhangshichang.com/) &emsp; —— www.zhangshichang.com
+- [小张同学の首页](https://www.zhangshichang.com/) &emsp; —— <p>www.zhangshichang.com</p>
 
-- [小张同学の博客](https://blog.zhangshichang.com/) &emsp; —— blog.zhangshichang.com
+- [小张同学の博客](https://blog.zhangshichang.com/) &emsp; —— <p>blog.zhangshichang.com</p>
 
 </td></tr>
