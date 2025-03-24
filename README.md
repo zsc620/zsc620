@@ -16,9 +16,5 @@
 <p>励志成为一名优秀的开发者。</p>
 <p>我们正在让这个世界变得更加美好，小张同学正在努力。</p>
   
-### 📌 我的小破站
 
-- [小张同学の首页](https://www.zhangshichang.com/)
-
-- [小张同学の博客](https://blog.zhangshichang.com/)
 </td></tr>
